@@ -1,6 +1,6 @@
 # TT-Analisis-de-Negocio
 
-Proyecto 8 del bootcap "Data Analyst" de TripleTen. Desarrollado por Óscar López. URL del repositorio en GitHub: [https://github.com/OscarLpzLuna/TT-Proyecto-5](https://github.com/OscarLpzLuna/TT-Analisis-de-Negocio/)
+Proyecto 8 del bootcap "Data Analyst" de TripleTen. Desarrollado por Óscar López. URL del repositorio en GitHub: [https://github.com/OscarLpzLuna/TT-Analisis-de-Negocio](https://github.com/OscarLpzLuna/TT-Analisis-de-Negocio/)
 
 En este proyecto se ponen en práctica las habilidades adquiridas en la sección de análisis de negocio. 
 Para ello, se realiza el ejercicio de optimizar los gastos de marketing en la empresa Y. Afisha utilizando los datos suministrados por el departamento analítico correspondientes de enero de 2017 a diciembre de 2018. Se busca obtener información sobre el comportamiento de los clientes al usar el servicio, cuánto dinero aportan individualmente a la compañía y en qué momento los ingresos cubren el costo de adquisición de los clientes.
